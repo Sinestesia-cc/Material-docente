@@ -1,9 +1,9 @@
 const cacheName = "Sinestesia-Vipro-0.1.5 PWA";
 const contentToCache = [
-    "Build/materialdocentev1.loader.js",
-    "Build/materialdocentev1.framework.js",
-    "Build/materialdocentev1.data",
-    "Build/materialdocentev1.wasm",
+    "Build/material docente v3.loader.js",
+    "Build/material docente v3.framework.js",
+    "Build/material docente v3.data",
+    "Build/material docente v3.wasm",
     "TemplateData/style.css"
 
 ];
